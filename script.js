@@ -45,11 +45,7 @@ class KawaiiGallery {
             console.log('No photos.json found, trying alternative method...');
         }
         
-        // Method 2: Predefined list (fallback)
-        // You should replace this with your actual photo filenames
-        const commonPhotoNames = [
-            'photo1.jpg', 'photo2.jpg', 'photo3.jpg', 'photo4.jpg', 'photo5.jpg',
-            'image1.png', 'image2.png', 'image3.png', 'image4.png', 'image5.png',
+'image4.png', 'image5.png',
             'pic1.jpeg', 'pic2.jpeg', 'pic3.jpeg', 'pic4.jpeg', 'pic5.jpeg',
             'anime1.jpg', 'anime2.jpg', 'anime3.jpg', 'kawaii1.png', 'kawaii2.png'
         ];
